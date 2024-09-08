@@ -30,4 +30,13 @@ describe('Página de login', () => {
     cy.contains('Falha no login. Consulte suas credenciais.').should('be.visible')
   })
 
+//Utilize o método para interceptar uma requisição e garantir que, dentro do contexto de caminho 
+//triste do login, o retorno das requisições realizadas sempre seja um erro. 
+//Utilize um dublê de testes do tipo stub para simular esse cenário e validar interações entre usuário 
+//e sistema;
+//Em seguida, verifique se as respostas da API AdoPet, ou seja, se a informação de mensagens que 
+//a pessoa usuária envia é devolvida ao front-end pela API. Lembre de utilizar interceptadores para 
+//acessar uma página autenticada via Token;
+//Por fim, use massa de dados para dinamizar o preenchimento dos campos do formulário de cadastro 
+//da aplicação.
 })

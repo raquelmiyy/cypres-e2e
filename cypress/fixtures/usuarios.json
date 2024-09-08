@@ -1,0 +1,53 @@
+{
+    "usuarios" : [
+    {
+        "name": "Kim Soo-hyun",
+        "email": "soohyun.kim@gmail.com",
+        "password": "SooH123!"
+    },
+    {
+        "name": "Park Shin-hye",
+        "email": "pshinye@gmail.com",
+        "password": "ParkShin2024"
+    },
+    {
+        "name": "Lee Min-ho",
+        "email": "lee.minho@gmail.com",
+        "password": "LMinHo*2023"
+    },
+    {
+        "name": "Song Hye-kyo",
+        "email": "shk.song@gmail.com",
+        "password": "SHKyo_123"
+    },
+    {
+        "name": "Ji Chang-wook",
+        "email": "jchangwook@gmail.com",
+        "password": "JiChang123!"
+    },
+    {
+        "name": "Kim Ji-won",
+        "email": "jiwon.kim@gmail.com",
+        "password": "KJiWon!2024"
+    },
+    {
+        "name": "Hyun Bin",
+        "email": "bin.hyun@gmail.com",
+        "password": "HyunB2023*"
+    },
+    {
+        "name": "Bae Suzy",
+        "email": "baesuzy@gmail.com",
+        "password": "BaeSuzy#123"
+    },
+    {
+        "name": "Jung Hae-in",
+        "email": "jung.haein@gmail.com",
+        "password": "HaeIn2024!"
+    },
+    {
+        "name": "IU Lee",
+        "email": "iu.lee@gmail.com",
+        "password": "LeeIU_2023"
+    }
+]}
